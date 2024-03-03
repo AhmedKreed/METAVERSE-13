@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## 📄 General info
-### Modern UI/UX Metaverse-13 :
+### Modern UI/UX Metaverse-13 with scrolling animations :
 #### <a href="https://master--metaversus-13.netlify.app/" target="_blank"> Live Site </a>
 ![meta](https://github.com/sfjgnjhdskgas/METAVERSE-13/assets/149872862/cb455229-611c-4663-b4be-33d7a664258a)
 
